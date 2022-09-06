@@ -1,8 +1,6 @@
 name: Build Config
 on:
-  push:
-    branches:
-      - config
+  push
 
 jobs:
   build:
