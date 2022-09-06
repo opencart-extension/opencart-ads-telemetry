@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "jest": "^29.0.2",
-    "jest-fetch-mock": "^3.0.3",
+    "jest-environment-jsdom": "^29.0.2",
     "webpack": "^5.74.0",
     "webpack-cli": "^4.10.0"
   },
@@ -26,14 +26,5 @@
   "bugs": {
     "url": "https://github.com/opencart-extension/opencart-ads-telemetry/issues"
   },
-  "homepage": "https://github.com/opencart-extension/opencart-ads-telemetry#readme",
-  "jest": {
-    "moduleFileExtensions": [
-      "js",
-      "jsx"
-    ],
-    "moduleDirectories": [
-      "node_modules"
-    ]
-  }
+  "homepage": "https://github.com/opencart-extension/opencart-ads-telemetry#readme"
 }
