@@ -1,9 +1,6 @@
-require('jest-fetch-mock').enableMocks()
-
 const Main = require('../src/main')
 
 beforeEach(() => {
-  fetchMock.doMock()
   document.body.innerHTML = ''
   document.head.innerHTML = ''
 })
