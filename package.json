@@ -11,10 +11,10 @@
     "core-js": "^2.5.7"
   },
   "devDependencies": {
-    "jest": "^26.4.2",
+    "jest": "^29.0.2",
     "jest-fetch-mock": "^3.0.3",
-    "webpack": "^4.44.2",
-    "webpack-cli": "^3.3.12"
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
   },
   "scripts": {
     "build": "webpack --config webpack.config.js",
@@ -24,9 +24,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/opencart-extension/PagSeguro-Checkout-Transparente/issues"
+    "url": "https://github.com/opencart-extension/opencart-ads-telemetry/issues"
   },
-  "homepage": "https://github.com/opencart-extension/PagSeguro-Checkout-Transparente#readme",
+  "homepage": "https://github.com/opencart-extension/opencart-ads-telemetry#readme",
   "jest": {
     "moduleFileExtensions": [
       "js",
